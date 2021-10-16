@@ -238,5 +238,8 @@ main{
     height: 35px;
     font-size: 10px;
     top: 360px;
-    left: 30px;   }
+    left: 50px;   }
+}
+select{
+    text-align: right;
 }
